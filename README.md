@@ -1,0 +1,4 @@
+launchbar-actions
+=================
+
+LaunchBar Actions
