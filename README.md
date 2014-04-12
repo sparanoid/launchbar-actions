@@ -1,4 +1,3 @@
-launchbar-actions
-=================
+# Launchbar Actions
 
 LaunchBar Actions
